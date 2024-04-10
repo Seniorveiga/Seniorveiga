@@ -12,10 +12,10 @@ Between my
 
 ## Amazing technologies that I use 🐍 :
 
-Programming Languages 🙀: Python, SQL, R, PowerBI
-Libraries 📚: NumPy, Pandas, Visualization Libraries (MatPlotLib, Seaborn, PlotLy), Machine Learning (SciKitLearn, TensorFlow, Keras)
-Development tools🪛 : VS Code, Jupyter, Anaconda, Git, LaTex 
-Aces upon my sleeves 🃏: Java, MatLab and others 🌚
+- Programming Languages 🙀: Python, SQL, R, PowerBI
+- Libraries 📚: NumPy, Pandas, Visualization Libraries (MatPlotLib, Seaborn, PlotLy), Machine Learning (SciKitLearn, TensorFlow, Keras)
+- Development tools🪛 : VS Code, Jupyter, Anaconda, Git, LaTex 
+- Aces upon my sleeves 🃏: Java, MatLab and others 🌚
 
 ## Some of my Passions 😍
 
