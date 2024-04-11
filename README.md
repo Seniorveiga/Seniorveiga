@@ -8,8 +8,6 @@ I am interested in **growing myself as a data-driven professional** looking to d
 
 My passion is the **Web3** 🪙 world and currently I´m developing a repo specialized on it. Meanwhile you can check some of my projects in the [Python Projects](https://github.com/Seniorveiga/Python_Projects) repo to see some of my jobs! 
 
-Between my 
-
 ## Amazing technologies that I use 🐍 :
 
 - Programming Languages 🙀: Python, SQL, R, PowerBI
@@ -17,12 +15,14 @@ Between my
 - Development tools🪛 : VS Code, Jupyter, Anaconda, Git, LaTex 
 - Aces upon my sleeves 🃏: Java, MatLab and others 🌚
 
+<!--
 ## Some of my Passions 😍
 
 - Amazed about psychology and personal development!
 - Gym is pure medicine 🏋️‍♂️
 - Economy is not only money, is justice! ⚖️
 - Travelling is a new gate to our souls 🌠
+-->
 
 If you want to know more about me, don´t hesitate to check my [LinkedIn Profile!](https://www.linkedin.com/in/manuel-miguel-veiga-valls-data-analyst-crypto/) or to [send an Email](manuelveigavalls@gmail.com) to manuelveigavalls@gmail.com 📫
 
