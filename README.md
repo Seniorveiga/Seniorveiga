@@ -1,5 +1,5 @@
 # Welcome to my Data Lab! ⚗️ 🧪 💾
-
+![](https://komarev.com/ghpvc/?username=Seniorveiga&color=360557&abbreviated=true&base=270)
 ## Who am I?
 
 I´m **Manuel**, but you can call me Manu. I´m a data scientist pursuing a career in data analysis and machine learning 🧠 📊. 
