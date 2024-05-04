@@ -5,7 +5,7 @@ I´m **Manuel**, but you can call me Manu. I´m a data scientist pursuing a care
 
 I am interested in **growing myself as a data-driven professional** looking to deploy solutions for entrepreneurs and revolutionize the profits of both companies and customers! It looking to have an international experience that skyrockets 🚀 the future of the company that I´ll be working for, providing insightful results, with people that has strong values such as *purpose*, *innovation* and a strong *collaborative* spirit 🤝
 
-My passion is the **Web3** 🪙 world and currently I´m developing a repo specialized on it. Meanwhile you can check some of my projects in the [Python Projects](https://github.com/Seniorveiga/Python_Projects) repo to see some of my work! 
+My passion is the **Web3** 🪙 world and currently I´m developing a repo specialized on it. Meanwhile you can check some of my projects in the [Temporal CV](https://github.com/Seniorveiga/CV) repo to see some of my work! 
 
 ## Amazing technologies that I use 🐍 :
 
