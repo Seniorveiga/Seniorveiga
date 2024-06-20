@@ -1,16 +1,17 @@
 # Welcome to my Data Lab! ⚗️ 🧪 💾
 ## Who am I?
 
-I´m **Manuel**, but you can call me Manu. I´m a data scientist pursuing a career in data analysis and machine learning 🧠 📊. 
+I´m **Manuel**, but you can call me Manu. I´m a data scientist pursuing a career in data analysis and machine learning 🧠 📊 with special interest in the world of Blockchain, the stock market and the crypto environment 🪙 🔒. 
 
 I am interested in **growing myself as a data-driven professional** looking to deploy solutions for entrepreneurs and revolutionize the profits of both companies and customers! It looking to have an international experience that skyrockets 🚀 the future of the company that I´ll be working for, providing insightful results, with people that has strong values such as *purpose*, *innovation* and a strong *collaborative* spirit 🤝
 
-My passion is the **Web3** 🪙 world and currently I´m developing a repo specialized on it. Meanwhile you can check some of my projects in the [Temporal CV](https://github.com/Seniorveiga/CV) repo to see some of my work! 
+My passion is the **Web3** 🪙 world and currently I´m developing a CV specialized on it. I have recently updated it with a trading bot and an algorithm that deploys .xlsx archives for manual traders, you can check my [CV](https://github.com/Seniorveiga/CV) repo to see some of my projects! 
 
 ## Amazing technologies that I use 🐍 :
 
+- Experience Programming: 1 year full-time
 - Programming Languages 🙀: Python, SQL, R, PowerBI
-- Libraries 📚: NumPy, Pandas, Visualization Libraries (MatPlotLib, Seaborn, PlotLy), Machine Learning (SciKitLearn, TensorFlow, Keras)
+- Libraries 📚: NumPy, Pandas, Visualization Libraries (MatPlotLib, Seaborn, PlotLy), Machine Learning (SciKitLearn, TensorFlow, Keras), Python-Binance...
 - Development tools🪛 : VS Code, Jupyter, Anaconda, Git, LaTex 
 - Aces upon my sleeves 🃏: Java, MatLab and others 🌚
 
