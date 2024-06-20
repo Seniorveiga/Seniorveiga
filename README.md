@@ -9,10 +9,11 @@ My passion is the **Web3** 🪙 world and currently I´m developing a CV special
 
 ## Amazing technologies that I use 🐍 :
 
-- Experience Programming: 1 year full-time
-- Programming Languages 🙀: Python, SQL, R, PowerBI
+- Experience Programming: 1 year full-time.
+- Programming Languages 🙀: Python, SQL, R, PowerBI.
 - Libraries 📚: NumPy, Pandas, Visualization Libraries (MatPlotLib, Seaborn, PlotLy), Machine Learning (SciKitLearn, TensorFlow, Keras), Python-Binance...
-- Development tools🪛 : VS Code, Jupyter, Anaconda, Git, LaTex 
+- Development tools 🪛 : VS Code, Jupyter, Anaconda, Git, LaTex.
+- Technologies 💽: Hadoop, Spark, Databricks.
 - Aces upon my sleeves 🃏: Java, MatLab and others 🌚
 
 <!--
